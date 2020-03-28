@@ -1,0 +1,16 @@
+[{
+  "id": "6475d945-d018-42ed-a29b-8d52f3a1dcc7",
+  "name": "Popo",
+  "lastName": "McPopo",
+  "birthYear": 2000
+}, {
+  "id": "fc142b51-0f1d-4f4b-baa2-02aa61bcb643",
+  "name": "Fido",
+  "lastName": "Dido",
+  "birthYear": 1985
+}, {
+  "id": "3d1921a9-35e6-493f-915b-0d3ab5fe8e94",
+  "name": "Tamash",
+  "lastName": "Shandor",
+  "birthYear": 1976
+}]
