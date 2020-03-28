@@ -1,4 +1,4 @@
-# usersServiceProject
+# UsersServiceProject
 
 This project is used to manage users data and devided into two sub modules (microservices):
 
