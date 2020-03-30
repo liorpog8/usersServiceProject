@@ -67,4 +67,15 @@ public class UserData implements Comparable<UserData>{
                 id, name, lastName, birthYear);
     }
 
+    @Override
+    public boolean equals(Object obj) {
+        if (obj == this) { return true; }
+        if (obj == null || obj.getClass() != this.getClass()) { return false; }
+        UserData user = (UserData) obj;
+        return this.name.equals(user.getName()) &&
+                this.lastName.equals(user.getLastName()) &&
+                this.birthYear == user.getBirthYear();
+    }
+
+
 }
